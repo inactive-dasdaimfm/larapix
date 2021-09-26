@@ -1,0 +1,17 @@
+.btn-ffa {
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    font-weight: bold;
+    border: 1px solid black;
+    margin-top: 10px;
+    border-radius: 3px;
+    transition: all 0.4s;
+}
+
+.btn-ffa:hover {
+    background-color: black;
+    color: white;
+    transition: all 0.4s;
+    transform: translateY(-3px);
+}
